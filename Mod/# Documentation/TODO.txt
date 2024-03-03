@@ -1,0 +1,11 @@
+﻿#-------------------------------------------------
+# WIP
+#-------------------------------------------------
+#------------
+# Maps
+#------------
+Add new area for Marauder
+
+Look at the lighting issue with the m38 catacombs
+ - Occurs randomly on reload, is fine on initial load
+ 
